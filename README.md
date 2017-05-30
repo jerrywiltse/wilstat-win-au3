@@ -15,4 +15,3 @@ Here are basic usage instructions:
 * If your users are internal LAN users, your life is easy, just add different IP's with the default ports.
 
 
-NOTE: MSTSC V6 really jacked this thing up and I tried to code around it with mixed results. Sorry if you have trouble. It all relates to stored credential settings and "Default.rdp" and all that. IMHO, MS really screwed the pooch on this release from an API perspective.
