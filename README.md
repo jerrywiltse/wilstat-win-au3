@@ -14,4 +14,7 @@ Here are basic usage instructions:
 * Your clients will need those port numbers when adding servers to their list
 * If your users are internal LAN users, your life is easy, just add different IP's with the default ports.
 
+Setup Requirements:
 
+* Both installers (*-setup.au3) require paths to be manually edited before compiling. 
+* Wilstatd depends on srvany and instsrv from the windows server toolkit
